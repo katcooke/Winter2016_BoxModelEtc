@@ -1,1 +1,36 @@
-
+#width {
+  width 75%;
+}
+#container1 {
+  width:50%;
+}
+#inside1 {
+  width:50%;
+}
+#border1 {
+  1 px solid black;
+}
+#border2 {
+  2 px solid black;
+}
+#border3 {
+  3 px solid black;
+}
+#border4 {
+  1 px solid black; background-color:maroon;
+}
+#margin1 {
+  1 px; 10% 10% 10% 10%;
+}
+margin2 {
+  5 px 10%; 1 px;
+}
+margin3 {
+  2 px 25%;
+}
+margin4 {
+  0% 15%; background-color: maroon;
+}
+margin5 {
+  width: 75% 0% auto;
+}
